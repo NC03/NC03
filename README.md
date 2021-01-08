@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+  - c++ [raytracing](https://github.com/NC03/raytracing)
+
+- 🌱 I’m currently learning ...
+  - [flask](https://palletsprojects.com/p/flask/)
+  - [JavaFX 15](https://openjfx.io/)
+
 <!--
 **NC03/NC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
