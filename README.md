@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning ...
   - [flask](https://palletsprojects.com/p/flask/)
   - [JavaFX 15](https://openjfx.io/)
+  - [OpenGL](https://www.opengl.org/)
 
 <!--
 **NC03/NC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
